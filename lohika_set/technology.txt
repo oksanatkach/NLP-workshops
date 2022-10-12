@@ -1,0 +1,127 @@
+Java
+XML
+JSON
+JAXB
+Hadoop
+Hive
+HBase
+Log4J
+MySQL
+Oracle Database
+PostgreSQL
+Teradata Aster
+Scrum
+Kanban
+Spring
+JUnit4
+Hibernate
+Tomcat
+JBoss
+Eclipse
+IntelliJ IDEA
+Maven
+SQL Developer
+Oracle VM VirtualBox
+VMWare
+SVN
+JIRA
+Jenkins
+JasperReports
+MS SQL Analysis Services
+Maven
+Redhat
+Ubuntu
+Debian
+Solaris
+Gentoo
+Cisco
+IOS
+TCP / IP
+DHCP
+DNS
+HTTP
+HTTPS
+SNMP
+SMTP
+OSI model
+UDP
+NAT
+IGMP
+Ethernet
+STP
+ARP
+dot1q
+VLAN
+bash
+awk
+sed
+J2EE
+J2SE
+RDBMS
+SAAS
+UI
+Programming languages
+J2SE / J2EE
+JDBC
+Hibernate
+JPA
+Spring MVC
+Spring IOC
+Spring Boot
+Spring Data JPA
+Spring Batch
+Apache Lucene
+REST Services
+JavaScript
+Angular JS
+HTML
+XML
+JSON
+Maven
+Gradle
+Multithreading
+JUnit
+Selenium
+RDBMS
+MySQL
+MsSQL
+Oracle
+Tomcat
+JBoss
+OC4J
+Eclipse
+IDEA
+Firebug
+Fiddler
+Git
+SVN
+JIRA
+Jenkins
+Source Tree
+Hudson
+Continuum
+SoapUI
+Luke
+Postman
+Methodologies
+Scrum
+Operating Systems
+Microsoft Windows
+Linux
+Python
+Django
+Java Script
+Angular JS
+BeautifulSoup
+jQuery
+Twitter Bootstrap
+Heroku
+SendGrid
+Sikuli Script
+Linux
+Windows
+watir
+cucumber
+soapui
+silktest
+jmeter

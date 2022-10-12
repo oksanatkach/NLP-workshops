@@ -1,0 +1,67 @@
+Project Description
+JIRA plugins for SoftServe functional offices that provides important analytics data
+Customer
+SoftServe Inc
+Involvement Duration
+Java Developer
+Project Team Size
+team members
+Analytics is the complete, cloud-based digital analytics product that sets itself apart by providing marketers with not only data, but with answers for increasing ROI
+Client issues fixing, developing automation tools for internal usage, reports development
+Training project. Java web project. This project – a little information system for real estate agency allows to login with different roles (admin, director, manager, seller, user, and guest), manage data: search add edit delete buy sell rent flats, houses, lands, commerce real estate.
+Project Role
+Responsibilities
+Refactoring of ETL, DML, Reporting, administration and other processes. Reverse engineering. Systems integration. Creation of new reports, DML flows.
+R&D Project that aimed acquiring Tibco Spotfire development skills. Project covered working with data sources, report development that was performed in such way to grant developer understanding of benefits and cons of Tibco Spotfire tools that can be used to perform more relevant reporst using particularly Tibco tools. R&D Project that aimed acquiring development skills with Hadoop related tools.  Project covered working with data sources,  using various tools  for different data sources, performance comparison
+DB developers
+Tasks performed
+Developed reports using Tibco Spotfire tool
+MapReduce jobs creation. Loading data, performing number of operations on data using various tools of Hadoop ecosystem
+Creation and configuration of data sources
+Implementation of business flow, designing project architecture
+Project is designed to transfer Analytic and some other applications to a new platform with high performance. The goal of the project was to proceed further with migration to real-time reporting
+Developing report generation code using Java and Hadoop related technologies like Hive etc., their performance testing, code integration and unit testing
+Participation in the development of a new architecture
+Monitoring tools creation
+Document current applications and create required specifications
+Investigation of current applications in detail
+Document current applications and create required specifications
+Monitoring tools creation
+Participation in the development of a new architecture
+Developing report generation code using Java and Hadoop related technologies like Hive etc., their performance testing, code integration and unit testing
+Finding vulnerabilities and solutions
+SoftServe
+Globallogic
+Epam
+Lohika
+Project: Project provide clients with world-leading intelligent analytics for making informed judgements about emerging business megatrends, opportunities and associated risks
+Monitoring reports and report investigation
+Client issue fixing. DB issue resolving
+Providing report logic explanation
+Responsibilities:
+provide support for 5500 Solaris, Linux and HP UX systems in data centers located in the UK and Europe
+support for 1200 Veritas Clusters (VCS 4.1 – 6.0 )
+support for SAN based storage from EMC and IBM arrays all managed on host by Veritas Storage Foundation (VxVM 3.5 – 6.0s)
+arranging, amending and implementing planned work
+collaboration and communication with different corporates and 3rd party teams
+root cause analysis
+knowledge transfers
+provide L2 technical support for one of BMC products
+manage technical support introductions and review meetings with customers related to product functionality, installations upgrade, performance scalability, configuration customization of customer's environment, configuration troubleshooting VMware, network connectivity
+install, configure, monitor and provide technical support for SaaS
+create and maintain documentation and technical support knowledge base
+collaborate with other for effective service delivery
+effective troubleshooting and point of escalation for issues related to network functionality
+provide technical support for L2 and regional NOC
+monitoring equipment of core and distribution layers
+analyze network performance
+configure network infrastructure at access, distribution and core layers
+create and maintain technical documentation
+organize the working process of technical support shift
+collaborate with other
+configure network infrastructure, monitoring status of switches and routers
+provide L2  technical support for vip-clients related to Operating System functionality, Network and Internet connectivities,  TCP IP configuration, software upgrades, routing, email, DNS
+Office IT system administration, user support, participate in meetings with software and hardware suppliers ; attend to meetings with company clients (together with sales ),  prepare technical part of projects, take part in implementation ; outsourcing (IT system analysis, business proposal preparing, implementation).
+Position:	Lead engineer of administrative and finance
+Position 	Lead system administrator in IT
+Managing a team of four; IT system optimization, hardware and software purchasing planning, administration of core services of IT system, user support and teaching; documentation handling, take part in annual inventory; work  on big projects with other .
